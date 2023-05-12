@@ -2,3 +2,4 @@ resolusi
 -Untuk menjadi fron end developer 
 -perbaikan rumah di kampung 
 -membeli tana di kampung
+-mennjadi back end developer
