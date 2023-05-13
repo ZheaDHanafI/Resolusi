@@ -1,5 +1,5 @@
 belajar bahasa
-
+-belajar laravel
 -menjadi backend dev
 -php
 -c++
