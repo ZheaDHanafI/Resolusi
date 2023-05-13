@@ -1,8 +1,8 @@
 belajar bahasa
-
+-belajar laravel
 -menjadi backend dev
 -php
 -c++
 -python
-
+-belajar boost trap
 -mau membuat game sederhana
