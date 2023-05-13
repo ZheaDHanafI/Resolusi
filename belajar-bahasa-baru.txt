@@ -3,3 +3,5 @@ belajar bahasa
 -php
 -c++
 -python
+
+-mau membuat game sederhana
