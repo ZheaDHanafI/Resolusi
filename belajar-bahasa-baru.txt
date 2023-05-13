@@ -1,5 +1,6 @@
 belajar bahasa
 
+-menjadi backend dev
 -php
 -c++
 -python
